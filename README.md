@@ -10,7 +10,7 @@
 ## 🛠️ Technical Stack
 <table>
   <tr>
-    <td width="200px" align="left"><b>🤖 AI / ML</b></td>
+    <td width="160px" align="left"><b>🤖 AI / ML</b></td>
     <td>
       <img src="https://img.shields.io/badge/LLMs-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -23,7 +23,7 @@
     </td>
   </tr>
   <tr>
-    <td width="200px" align="left"><b>☁️ Cloud & CI/CD</b></td>
+    <td width="160px" align="left"><b>☁️ Cloud & CI/CD</b></td>
     <td>
       <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -36,7 +36,7 @@
     </td>
   </tr>
   <tr>
-    <td width="200px" align="left"><b>📊 Data & Analytics</b></td>
+    <td width="160px" align="left"><b>📊 Data & Analytics</b></td>
     <td>
       <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
@@ -46,7 +46,7 @@
     </td>
   </tr>
   <tr>
-    <td width="200px" align="left"><b>🌐 WebDev & UI</b></td>
+    <td width="160px" align="left"><b>🌐 WebDev & UI</b></td>
     <td>
       <img src="https://img.shields.io/badge/Svelte_5-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -58,7 +58,7 @@
     </td>
   </tr>
   <tr>
-    <td width="200px" align="left"><b>💻 Languages</b></td>
+    <td width="160px" align="left"><b>💻 Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -76,15 +76,15 @@
 
 <table>
   <tr>
-    <td width="200px" align="left"><b>🥇 Rankings</b></td>
+    <td width="160px" align="left"><b>🥇 Rankings</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Top_4-Claude--Code_Leaderboard-black?style=for-the-badge&logo=anthropic&logoColor=white" />
       <img src="https://img.shields.io/badge/Top_30-Meilleur_Dev_France-FFD700?style=for-the-badge&logo=europeanunion&logoColor=white" />
-      <img src="https://img.shields.io/badge/Top_4_Python-Société_Générale-red?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Top_4_Dev-Société_Générale-red?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Top_4_Tokens-Claude--Code_Leaderboard-black?style=for-the-badge&logo=anthropic&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="200px" align="left"><b>🎤 Speaking</b></td>
+    <td width="160px" align="left"><b>🎤 Speaking</b></td>
     <td>
       <img src="https://img.shields.io/badge/Speaker-DockerCon_US-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Speaker-Microsoft_TechDays-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -92,7 +92,7 @@
     </td>
   </tr>
   <tr>
-    <td width="200px" align="left"><b>🎖️ Leadership</b></td>
+    <td width="160px" align="left"><b>🎖️ Leadership</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-Worldwide_Leadership-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/SG-Innovation_Trophy-red?style=for-the-badge&logo=icloud&logoColor=white" />
@@ -106,7 +106,7 @@
 
 <table>
   <tr>
-    <td width="200px" align="left"><b>📜 Degrees</b></td>
+    <td width="160px" align="left"><b>📜 Degrees</b></td>
     <td>
       <img src="https://img.shields.io/badge/Master_AI_&_Graphics-Unilim-red?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Engineering_Degree-3IL-orange?style=for-the-badge" />
@@ -114,7 +114,7 @@
     </td>
   </tr>
   <tr>
-    <td width="200px" align="left"><b>🎗️ Certifications</b></td>
+    <td width="160px" align="left"><b>🎗️ Certifications</b></td>
     <td>
       <img src="https://img.shields.io/badge/TOGAF-Certified-005C94?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Deep_Learning-Andrew_Ng-8E44AD?style=for-the-badge&logo=coursera&logoColor=white" />
