@@ -1,8 +1,8 @@
 # 💫 About Me
 
-🧑‍💻 **Currently:** Developing high-performance trading algorithms for equities.<br><br>
+🧑‍💻 **Currently:** Developing trading algorithms for equities as hobby.<br><br>
 🌱 **Learning:** Deep-diving into **Zig** and **Svelte 5** for high-efficiency systems and reactive UIs.<br><br>
-💬 **Let's Talk:** System architecture, scalability, performance optimization, and low-level engineering.<br><br>
+💬 **Let's Talk:** System architecture, IT transformation, scalability, and low-level engineering.<br><br>
 😄 **Fun Fact:** I’ve built a **C++ to CPU-SIMD / GPU-ASM dynamic compiler** and a custom **OS memory allocator** from scratch.<br><br>
 
 ---
