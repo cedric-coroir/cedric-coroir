@@ -1,7 +1,8 @@
 # 💫 About Me
 
-🧑‍💻 **Currently:** Developing trading algorithms for equities as hobby.<br><br>
+🧑‍💻 **Currently:** Developing ZenGaze ⌘ Tiling window manager for macOS  with infinite scroll & opt-in VIM keymap.<br><br>
 🌱 **Learning:** Deep-diving into **Zig** and **Svelte 5** for high-efficiency systems and reactive UIs.<br><br>
+👾 **Hobby:** Developing trading algorithms for equities.<br><br>
 💬 **Let's Talk:** System architecture, IT transformation, scalability, and low-level engineering.<br><br>
 😄 **Fun Fact:** I’ve built a **C++ to CPU-SIMD / GPU-ASM dynamic compiler** and a custom **OS memory allocator** from scratch.<br><br>
 
